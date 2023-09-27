@@ -1,6 +1,6 @@
 # BrickGame
 
-![Game Screenshot](brick game image.png)
+![Game Screenshot](brick%20game%20image.png)
 
 ## Table of Contents
 
